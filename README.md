@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on Data Science and Mobile Application Developement.
-- 🌱 I’m currently learning Python, Java, Kotlin and Flutter
+- 🔭 I’m currently working on Data Science and Machine Learning.
+- 🌱 I’m currently learning Python, Java, C#, ASP.NET/MVC
 - 💬 Ask me about https://www.linkedin.com/in/berkeozkul1
 
