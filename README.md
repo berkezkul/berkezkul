@@ -1,4 +1,4 @@
-                                      ### I'm Berke, a junior data scientist and backend developer 🚀
+                                      ### I'm Berke, a software developer 🚀
 
 
 
