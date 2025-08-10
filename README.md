@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I'm a **Computer Engineering graduate** and a **software developer** specializing in **AI, data analysis, backend, and mobile application development**.  
+I'm a **Computer Engineering graduate** and a **software developer** specializing in **Mobile application development, backend, data analysis, and AI**.  
 I have nearly **2 years of experience** in corporate, technopark, and startup ecosystems, building projects from idea to production.  
 
 As the **Turkey Vice-Comleader** at [Sustain2Solve](https://www.linkedin.com/company/sustain2solve/),  
