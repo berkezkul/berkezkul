@@ -10,7 +10,7 @@
 I'm a **Computer Engineering graduate** and a **software developer** specializing in **AI, data analysis, backend, and mobile application development**.  
 I have nearly **2 years of experience** in corporate, technopark, and startup ecosystems, building projects from idea to production.  
 
-As the **Turkey Vice-Comleader** at [Sustain2Solve](https://www.sustain2solve.org/),  
+As the **Turkey Vice-Comleader** at [Sustain2Solve](https://www.linkedin.com/company/sustain2solve/),  
 I contributed to **10+ sustainability & entrepreneurship projects** impacting **5000+ young people** across Turkey.
 
 ---
